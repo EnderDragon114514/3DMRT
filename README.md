@@ -16,3 +16,12 @@
 ###    Download Develop Enviroment(MRTDev)
 #### 下载`3DMRT Develop Enviroment`目录下的所有文件，然后打开`mrtdev.exe`即可
 #### Download `3DMRT Develop Enviroment\*`，and then open `mrtdev.exe`
+## 更新日志
+## Update Log
+### v1.0 Build 34:(已失传)第一个正式Debug版本
+### v1.1 Build 58:第一个Release版本，相比上一个正式Debug版本移除了fileContainer.exe
+### v1.1 Build 62:优化Launcher，移除TurtleRender渲染器
+---
+### v1.0 Build 34:(No downloadable file)First Formal Debug Version
+### v1.1 Build 58:First Release Version, Removed `fileContainer.exe` from `v1.0 Build 34`
+### v1.1 Build 62:Updated `Launcher`, Removed `render_turtle.py`
